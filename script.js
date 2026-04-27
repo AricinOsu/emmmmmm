@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/ZB9kXOjfhasAAAAi/cat-kitty.gif",    // 0 normal
-    "https://media.tenor.com/FJtRi5UXT-gAAAAi/pusheen-pusheen-sad.gif",  // 1 confused
-    "https://media1.tenor.com/m/rKv4NbObs8EAAAAC/kinda-lazy-pusheen.gif",             // 2 pleading
-    "https://media1.tenor.com/m/tNZVLN0jcVkAAAAd/dejected-sad.gif",             // 3 sad
-    "https://media.tenor.com/2sRRSDtZRgoAAAAi/pushin.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/TS7aSPWwXJ4AAAAi/capoo-waiting.gif",    // 0 normal
+    "https://media.tenor.com/7vdAIAUcnkUAAAAi/bugcat-capoo-ice-cream.gif",  // 1 confused
+    "https://media1.tenor.com/m/molY4aMW5uEAAAAC/thanhhuyen.gif",             // 2 pleading
+    "https://media.tenor.com/pECqfK0xuYYAAAAi/tkthao219-capoo.gif",             // 3 sad
+    "https://media.tenor.com/Wx-TCyz6GswAAAAi/bugcact-capoo.gif",       // 4 sadder
+    "https://media.tenor.com/aUNFPNeEECcAAAAi/capoo-bug.gif",             // 5 devastated
+    "https://media1.tenor.com/m/Gx3z4t3kOcMAAAAC/capoo-bug.gif",               // 6 very devastated
+    "https://media.tenor.com/X_TEp5v_GqUAAAAi/cat-bug.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
